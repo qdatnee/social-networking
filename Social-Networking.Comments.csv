@@ -1,0 +1,2 @@
+_id,post_id,user_id,user_full_name,user_profile_picture,content,created_at,reactions.like[0].user_id,reactions.like[0].user_full_name,reactions.like[0].user_profile_picture
+63f80b9d1c4b3c001a8f5c3d,63f80b9d1c4b3c001a8f5c39,63f80b9d1c4b3c001a8f5c37,Friend 1,path/to/friend1_picture.jpg,This is a comment on the post.,2024-08-21T12:05:00.000Z,63f80b9d1c4b3c001a8f5c36,Full Name,path/to/profile_picture.jpg
